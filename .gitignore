@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+tests/
+monitor/
+*.csv
+*.png
+*.log
+nohup.out
